@@ -1,1 +1,3 @@
-# sprint1-maquetacion
+- maquetación en formato escritorio
+- versión por tableta
+-adaptación a versión Mobile.
