@@ -83,7 +83,7 @@
   color: white;
 }
 
-@media (max-width: 768px) { 
+@media (max-width: 1024px) { 
  .header {
     flex-direction: column;
     align-items: stretch;
@@ -100,6 +100,30 @@
   }
   .i5 {
     grid-column: span 2;
+  }
+.sidebar {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 768px){
+ .header {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .arriba {
+    margin: 5px 0;
+    flex: none;
+  }  
+ .contenido {
+    grid-template-columns: 1fr;
+  }
+  .central {
+    display: flex;
+    flex-direction: column;
+  }
+  .i5 {
+    grid-column:1fr;
   }
 .sidebar {
     flex-direction: column;

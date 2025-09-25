@@ -1,3 +1,2 @@
-- maquetación en formato escritorio
-- versión por tableta
--adaptación a versión Mobile.
+-HTML, maquetación en formato escritorio
+- CSS con estilos y versión pora tabletay adaptación a versión Mobile.
